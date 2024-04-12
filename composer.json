@@ -1,0 +1,16 @@
+{
+    "name": "oleg/fp-db-test",
+    "description": "Test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleg Shmakov",
+            "email": "flame.in.the.head@gmail.com"
+        }
+    ],
+    "require": {}
+}
